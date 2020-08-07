@@ -10,8 +10,11 @@ body {
 }
 
 .expl {
-  color: teal;
+  color: gray;
 }
 .programs {
 color: salmon;
+}
+.special {
+  color: teal;
 }
