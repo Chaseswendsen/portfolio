@@ -21,10 +21,8 @@ color: salmon;
 }
 
 .am {
-  .my-class {
-    margin: 12px;
-    border: 2px solid green;
-    padding: 4px;
-    background-color: orange;
+  margin: 12px;
+  border: 6px solid salmon;
+  padding: 4px;
+  background-color: cornsilk;
   }
-}
