@@ -30,3 +30,7 @@ color: salmon;
   .story {
     color: teal;
   }
+  
+  .photo {
+    float: left;
+  }
