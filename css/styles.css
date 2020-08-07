@@ -44,17 +44,6 @@ color: salmon;
     float: left;
   }
 
-  .apple {
-    text-align: center;
-  }
-  .apple h1 {
-    color: teal;
-    font-family: "Lucida Console", Courier, monospace;
-  }
-
-  .apple p {
-    color: salmon;
-  }
 
   .sidenav {
     height: 100%; 
