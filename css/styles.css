@@ -8,6 +8,10 @@
 body {
   background-color: whitesmoke;
 }
-.projects {
-color: teal;
+
+.expl {
+  color: teal;
+}
+.programs {
+color: salmon;
 }
