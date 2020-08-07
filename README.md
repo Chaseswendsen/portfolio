@@ -6,6 +6,12 @@
 ## Description
 This portfolio page I created is a friday project for epicodus! It contains information about me such as previous employers, hobbies, and a little bit of my life story! It includes a side bar with links to other website that employers may want to see. 
 
+## Technologies Used
+VS CODE
+HTML
+BOOTSTRAP
+CSS
+
 ## Installation
 No installation!
 
