@@ -66,6 +66,7 @@ color: salmon;
     background-color: rgb(230, 223, 198); 
     overflow-x: hidden; 
     padding-top: 20px;
+
   }
 
   .sidenav a {
@@ -75,7 +76,10 @@ color: salmon;
     color: rgb(6, 114, 114);
     display: block;
   }
+  .pancake:hover {
+    color: salmon;
+    font-size: 26px;
 
- 
+  }
 
     
