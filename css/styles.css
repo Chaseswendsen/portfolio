@@ -1,13 +1,13 @@
 .top {
   text-align: center;
-  color: black;
+  color: teal;
 }
 .jumbotron {
   background-color: cornsilk;
 }
 body {
-  background-color: lightgreen;
+  background-color: whitesmoke;
 }
-.pict {
-
+.projects {
+color: teal;
 }
