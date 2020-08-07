@@ -1,3 +1,10 @@
 .top {
   text-align: center;
+  color: black;
+}
+.jumbotron {
+  background-color: cornsilk;
+}
+body {
+  background-color: lightgreen;
 }
