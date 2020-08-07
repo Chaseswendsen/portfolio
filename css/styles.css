@@ -8,6 +8,10 @@
 }
 body {
   background-color: whitesmoke;
+  background-image: url('https://i2.wp.com/winkgo.com/wp-content/uploads/2016/11/22-Relaxing-GIFs-That-Are-Soothingly-Beautiful-16.gif?w=1060&ssl=1');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .expl {
@@ -70,3 +74,10 @@ color: salmon;
     font-size: 25px;
     color: rgb(6, 114, 114);
     display: block;
+  }
+
+  .bp {
+  
+  }
+
+    
