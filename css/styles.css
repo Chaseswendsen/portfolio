@@ -1,6 +1,7 @@
 .top {
   text-align: center;
   color: teal;
+  font-family: "Lucida Console", Courier, monospace;
 }
 .jumbotron {
   background-color: cornsilk;
@@ -50,3 +51,24 @@ color: salmon;
   .apple p {
     color: salmon;
   }
+
+  .sidenav {
+    height: 100%; 
+    width: 160px; 
+    position: fixed;
+    z-index: 1;
+    top: 0; 
+    left: 0;
+    background-color: rgb(230, 223, 198); 
+    overflow-x: hidden; 
+    padding-top: 20px;
+  }
+
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(6, 114, 114);
+    display: block;
+
+  
