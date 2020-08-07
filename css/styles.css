@@ -15,6 +15,16 @@ body {
 .programs {
 color: salmon;
 }
+
 .special {
   color: teal;
+}
+
+.am {
+  .my-class {
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+    background-color: orange;
+  }
 }
