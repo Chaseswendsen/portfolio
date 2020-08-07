@@ -27,10 +27,26 @@ color: salmon;
   background-color: cornsilk;
   }
 
+  .am em {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+
   .story {
     color: teal;
   }
   
   .photo {
     float: left;
+  }
+
+  .apple {
+    text-align: center;
+  }
+  .apple h1 {
+    color: teal;
+    font-family: "Lucida Console", Courier, monospace;
+  }
+
+  .apple p {
+    color: salmon;
   }
